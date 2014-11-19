@@ -6,6 +6,8 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
         About
+        Commit from Aptana
+
     </h2>
     <p>
         Put content here.
